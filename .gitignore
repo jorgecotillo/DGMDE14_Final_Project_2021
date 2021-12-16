@@ -1,0 +1,11 @@
+env
+env/
+*/env/**
+**/env/**
+**/env
+*.pyc
+.ipynb_checkpoints
+train/*
+train/train/*
+test/*
+test/test/*
