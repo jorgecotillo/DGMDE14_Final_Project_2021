@@ -41,5 +41,12 @@
 * The landmark method uses the calculation covered in Soukupová and Čech’s paper in 2016 titled” Real-Time Eye Blink Detection Using Facial Landmarks” to calculate the eye aspect ratio at each frame captured by the Raspberry Pi camera 
 * The landmark method followed the same structure of code with Adrian Rosebrock’s blog named “Drowsiness detection with OpenCV” to detect micro-sleeps
 
+* The data set for drowsiness data is from the University of Texas Arlington dataset titled "UTA Real-life Drowsiness Dataset." This dataset forms the basis for the training and validation data sets used in the CNN model.
+
+https://sites.google.com/view/utarldd/home
+
+https://sites.google.com/view/utarldd/home
+
+
 
 
