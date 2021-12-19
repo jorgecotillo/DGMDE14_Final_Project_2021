@@ -1,5 +1,11 @@
 ## Final Project
 
+# Team members
+* Peter Chen
+* Jorge Cotillo
+* Jeremy Guo
+* Sanjeev Nandal
+
 # Final presentations video links
   * Report
     * [Project report](https://1drv.ms/w/s!Aqk-ltMQf5hamz8kTLw6veyveFsX?e=GWdt1v)
