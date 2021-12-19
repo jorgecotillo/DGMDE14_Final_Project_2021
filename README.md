@@ -43,9 +43,15 @@
 
 * The data set for drowsiness data is from the University of Texas Arlington dataset titled "UTA Real-life Drowsiness Dataset." This dataset forms the basis for the training and validation data sets used in the CNN model.
 
-https://sites.google.com/view/utarldd/home
+# References
+Analytics Vidhya, 2021. Facial expression detection using Machine Learning in Python. Available at: <https://medium.com/analytics-vidhya/facial-expression-detection-using-machine-learning-in-python-c6a188ac765f> [Accessed 19 December 2021].
 
-http://vlm1.uta.edu/~athitsos/projects/drowsiness/
+
+Ghoddoosian, R., Galib, M. and Athitsos, V., 2019. A Realistic Dataset and Baseline Temporal Model for Early Drowsiness Detection. [online] arXiv.org. Available at: <https://arxiv.org/abs/1904.07312> [Accessed 18 December 2021].
+
+Rosebrock, A., 2017. Drowsiness detection with OpenCV - PyImageSearch. [online] PyImageSearch. Available at: <https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/> [Accessed 19 December 2021].
+
+
 
 
 
