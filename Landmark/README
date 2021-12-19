@@ -1,0 +1,2 @@
+Concat all shape files to one "shape.dat"
+Run the code by the command "python detect_drowsiness_rv2.py --shape-predictor shape.dat --alarm alarm.wav
