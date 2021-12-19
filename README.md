@@ -43,7 +43,7 @@
 
 * The data set for drowsiness data is from the University of Texas Arlington dataset titled "UTA Real-life Drowsiness Dataset." This dataset forms the basis for the training and validation data sets used in the CNN model.
 
-* CNN model architecture and code is heavily based on and inspired by Analytics Vidhya, 2021. "Facia expression detection using Machine Learning in Python."
+* CNN model architecture and code is based on and inspired by Analytics Vidhya, 2021. "Facia expression detection using Machine Learning in Python."
 
 # References
 Analytics Vidhya, 2021. Facial expression detection using Machine Learning in Python. Available at: <https://medium.com/analytics-vidhya/facial-expression-detection-using-machine-learning-in-python-c6a188ac765f> [Accessed 19 December 2021].
