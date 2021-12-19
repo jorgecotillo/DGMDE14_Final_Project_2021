@@ -36,3 +36,10 @@
 * For playsound to work, run:
   * `pip install pygame`
   * `sudo apt-get install libsdl2-mixer-2.0-0`
+
+# Acknowledgement
+The landmark method uses the calculation covered in Soukupová and Čech’s paper in 2016 titled” Real-Time Eye Blink Detection Using Facial Landmarks” to calculate the eye aspect ratio at each frame captured by the Raspberry Pi camera 
+The landmark method followed the same structure of code with Adrian Rosebrock’s blog named “Drowsiness detection with OpenCV” to detect micro-sleeps
+
+
+
