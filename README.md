@@ -1,5 +1,16 @@
 ## Final Project
 
+# Final presentations video links
+  * Presentation
+    * [Recorded presentation](https://1drv.ms/v/s!Aqk-ltMQf5hamBquFCyuObmvhIE2?e=UlOe5a)
+    * [PowerPoint presentation](https://1drv.ms/p/s!Aqk-ltMQf5hamBT8sNHEeF-S01kK?e=YmXmHN)
+  * Demo
+    * CNN
+      * [CNN Demo](https://1drv.ms/v/s!Aqk-ltMQf5hamzSLoh1ttGQgzS0m?e=ym3bjP)
+    * Landmark
+      * [Landmark extraction](https://1drv.ms/v/s!Aqk-ltMQf5hamBsMahnw_wUIq2qx?e=eLRMWi)
+      * [Monitoring website](https://1drv.ms/v/s!Aqk-ltMQf5hamzN37OUA7HWE-FtC?e=D1ph3b)
+
 # Important links
 
 * Data set:
