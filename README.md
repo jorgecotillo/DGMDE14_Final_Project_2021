@@ -1,6 +1,8 @@
 ## Final Project
 
 # Final presentations video links
+  * Report
+    * [Project report](https://1drv.ms/w/s!Aqk-ltMQf5hamz8kTLw6veyveFsX?e=GWdt1v)
   * Presentation
     * [Recorded presentation](https://1drv.ms/v/s!Aqk-ltMQf5hamBquFCyuObmvhIE2?e=UlOe5a)
     * [PowerPoint presentation](https://1drv.ms/p/s!Aqk-ltMQf5hamBT8sNHEeF-S01kK?e=YmXmHN)
